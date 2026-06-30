@@ -1,6 +1,6 @@
 {
   "name": "aliyun-cli-npm",
-  "version": "3.3.17",
+  "version": "5.0.0",
   "description": "阿里云CLI统一入口 - 支持按需下载，轻量高效的npm封装包",
   "main": "lib/main.js",
   "bin": {
