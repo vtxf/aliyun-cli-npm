@@ -1,0 +1,30 @@
+{
+  "name": "aliyun-cli-npm",
+  "version": "3.3.17",
+  "description": "阿里云CLI统一入口 - 支持按需下载，轻量高效的npm封装包",
+  "main": "lib/main.js",
+  "bin": {
+    "aliyun": "./lib/main.js"
+  },
+  "keywords": [
+    "aliyun",
+    "cli",
+    "alibabacloud",
+    "aliyun-cli",
+    "npm",
+    "command-line",
+    "cloud",
+    "download-on-demand",
+    "lightweight"
+  ],
+  "author": "vtxf",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "os": ["win32", "darwin", "linux"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vtxf/aliyun-cli-npm.git"
+  }
+}

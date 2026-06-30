@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log
+*.log
+.DS_Store
+*.swp
+*.tgz
+.npm
+.env
+.local
+.trae/
+bin/*/
+!bin/.gitkeep
