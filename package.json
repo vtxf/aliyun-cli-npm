@@ -17,6 +17,12 @@
     "download-on-demand",
     "lightweight"
   ],
+  "files": [
+    "lib",
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
   "author": "vtxf",
   "license": "MIT",
   "engines": {
